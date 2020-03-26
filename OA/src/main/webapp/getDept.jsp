@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+		<!-- Ming -->
 		<a href="${pageContext.request.contextPath}/hrm/dept/getAllDept">获得所有部门信息</a>
 </body>
 </html>
