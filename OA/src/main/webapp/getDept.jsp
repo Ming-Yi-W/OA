@@ -12,7 +12,7 @@
 		<!-- 456 -->
 		fdsa
 		<a href="${pageContext.request.contextPath}/hrm/dept/getAllDept">获得所有部门信息</a>
-		<input type="text" name="name"/>
+		<input type="text" name="name"/>  nishige
 		
 		
 </body>
